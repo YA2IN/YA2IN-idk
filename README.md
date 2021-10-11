@@ -1,2 +1,4 @@
-# YA2IN-idk
-IDK
+"prefix" : "?"
+"token" : ""
+"delay" : "0"
+"log_dms" : "on"
